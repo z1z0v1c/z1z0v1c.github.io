@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Aleksandar Zizovic</title>
+    <link>http://localhost:1313/aleksandarzizovic.dev/categories/</link>
+    <description>Recent content in Categories on Aleksandar Zizovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/aleksandarzizovic.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microservices</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/microservices/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/microservices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sports Betting</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/sports-betting/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/sports-betting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Modular Monolith</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/modular-monolith/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/modular-monolith/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PLM</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/plm/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/plm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Order-to-Cash</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/order-to-cash/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/order-to-cash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/logistics/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/logistics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tank Terminals</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/tank-terminals/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/tank-terminals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>QA</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/categories/qa/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/categories/qa/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

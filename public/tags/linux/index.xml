@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Aleksandar Zizovic</title>
+    <link>http://localhost:1313/aleksandarzizovic.dev/tags/linux/</link>
+    <description>Recent content in Linux on Aleksandar Zizovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/aleksandarzizovic.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TRI</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/projects/tri/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/projects/tri/</guid>
+      <description>Sports betting software.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aleksandarzizovic.dev/projects/tri/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home page on Aleksandar Zizovic</title>
+    <link>http://localhost:1313/aleksandarzizovic.dev/</link>
+    <description>Recent content in Home page on Aleksandar Zizovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/aleksandarzizovic.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TRI</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/projects/tri/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/projects/tri/</guid>
+      <description>Sports betting software.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aleksandarzizovic.dev/projects/tri/featured.png" />
+    </item>
+    
+    <item>
+      <title>Devex</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/projects/devex/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/projects/devex/</guid>
+      <description>Product Lifecycle Management (PLM) software.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aleksandarzizovic.dev/projects/devex/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>O2C</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/projects/o2c/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/projects/o2c/</guid>
+      <description>Order-to-Cash processing system.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aleksandarzizovic.dev/projects/o2c/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Axcel</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/projects/axcel/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/projects/axcel/</guid>
+      <description>Software for synchronizing logistics on tank terminal facilities.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aleksandarzizovic.dev/projects/axcel/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Endava Test Automation</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/projects/endava/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/projects/endava/</guid>
+      <description>Test framework for the official Endava website.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aleksandarzizovic.dev/projects/endava/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

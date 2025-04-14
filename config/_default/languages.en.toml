@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Aleksandar Zizovic"
+
+[params]
+  [params.homepage]
+    layout = "list"
+    showRecent = true
+    mainSections = ["projects"]
+    recentLimit = 3
+
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Personal portfolio site"
+  copyright = "© 2025 Aleksandar Zizovic"
+
+[params.author]
+  image = "img/profile-photo.jpg"
+  imageQuality = 96
+  headline = "Hi, I’m Aleksandar - a Backend Developer based in Belgrade, Serbia.</br>Passionate about clean code, distributed systems, and solving real-world challenges.</b></br>"
+  links = [
+    { email = "mailto:zizovic.aleksandar@outlook.com" },
+    { github = "https://github.com/z1z0v1c" },
+    { linkedin = "https://linkedin.com/in/aleksandar-zizovic" },
+    { x-twitter = "https://twitter.com/z1z0v1c" }
+  ]
+

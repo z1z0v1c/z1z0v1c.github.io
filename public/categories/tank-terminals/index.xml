@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tank Terminals on Aleksandar Zizovic</title>
+    <link>http://localhost:1313/aleksandarzizovic.dev/categories/tank-terminals/</link>
+    <description>Recent content in Tank Terminals on Aleksandar Zizovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/aleksandarzizovic.dev/categories/tank-terminals/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Axcel</title>
+      <link>http://localhost:1313/aleksandarzizovic.dev/projects/axcel/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aleksandarzizovic.dev/projects/axcel/</guid>
+      <description>Software for synchronizing logistics on tank terminal facilities.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aleksandarzizovic.dev/projects/axcel/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
