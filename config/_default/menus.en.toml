@@ -24,3 +24,8 @@
  name = "Contact"
  pageRef = "contact"
  weight = 30
+
+[[main]]
+  name = "Resume"
+  url = "Aleksandar_Zizovic_CV.pdf"
+  weight = 40
